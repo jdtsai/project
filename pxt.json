@@ -1,15 +1,15 @@
 {
-    "name": "project",
+    "name": "tools",
     "version": "0.0.1",
-    "description": "Extension test for BBC Micro Bit Blockly Programing.",
+    "description": "這是專為測試用的micro:bit積木",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "README.md",
-        "main.ts",
-        "_locales/zh/project-strings.json"
+        "main.cpp",
+        "_locales/zh/tools-strings.json"
     ],
     "public": true
 }
