@@ -1,0 +1,15 @@
+{
+    "name": "project",
+    "version": "0.0.1",
+    "description": "Extension test for BBC Micro Bit Blockly Programing.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/project-strings.json"
+    ],
+    "public": true
+}
